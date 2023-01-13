@@ -1,1 +1,1 @@
-# webpack-jokesapp
+# jokesapp made with webpack
